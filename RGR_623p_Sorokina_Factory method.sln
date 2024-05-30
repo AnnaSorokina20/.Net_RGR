@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGR_623p_Sorokina_Factory method", "RGR_623p_Sorokina_Factory method\RGR_623p_Sorokina_Factory method.csproj", "{18C0A5CE-20C3-4D00-966E-63BA3A582839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C0A5CE-20C3-4D00-966E-63BA3A582839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C0A5CE-20C3-4D00-966E-63BA3A582839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C0A5CE-20C3-4D00-966E-63BA3A582839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C0A5CE-20C3-4D00-966E-63BA3A582839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFE7F19-8CD5-4EBB-9F55-F63D66A296BF}
+	EndGlobalSection
+EndGlobal
